@@ -1,4 +1,4 @@
-#Build these projects out and submit them
+**Build these projects out and submit them**
 
 **Utility Library (Node.js)**
 Build a utility library with 5 useful functions in Node.js:
